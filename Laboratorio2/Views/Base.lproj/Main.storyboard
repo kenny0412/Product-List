@@ -16,10 +16,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Producto:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ikX-Xw-Ejc">
-                                <rect key="frame" x="48" y="178" width="75" height="34"/>
+                                <rect key="frame" x="48" y="178" width="75" height="20.5"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="75" id="4PP-yh-DuS"/>
-                                    <constraint firstAttribute="height" constant="34" id="hda-Td-gyh"/>
+                                    <constraint firstAttribute="width" constant="75" id="Mzp-bw-YOx"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -45,10 +44,9 @@
                         <constraints>
                             <constraint firstItem="xWk-3E-e0e" firstAttribute="trailing" secondItem="aXA-jp-oag" secondAttribute="trailing" constant="33" id="2Rr-4N-vsw"/>
                             <constraint firstItem="aXA-jp-oag" firstAttribute="top" secondItem="xWk-3E-e0e" secondAttribute="top" constant="90" id="52o-ce-0Zk"/>
-                            <constraint firstItem="ikX-Xw-Ejc" firstAttribute="leading" secondItem="xWk-3E-e0e" secondAttribute="leading" constant="48" id="BpG-JN-OmT"/>
-                            <constraint firstItem="aXA-jp-oag" firstAttribute="leading" secondItem="ikX-Xw-Ejc" secondAttribute="trailing" constant="19" id="E1m-Rx-N07"/>
+                            <constraint firstItem="ikX-Xw-Ejc" firstAttribute="top" secondItem="xWk-3E-e0e" secondAttribute="top" constant="90" id="8In-Fm-WKu"/>
+                            <constraint firstItem="ikX-Xw-Ejc" firstAttribute="leading" secondItem="xWk-3E-e0e" secondAttribute="leading" constant="48" id="SDn-sk-T2c"/>
                             <constraint firstItem="pie-Xh-Zpn" firstAttribute="top" secondItem="aXA-jp-oag" secondAttribute="bottom" constant="84" id="X91-ud-c1U"/>
-                            <constraint firstItem="ikX-Xw-Ejc" firstAttribute="top" secondItem="xWk-3E-e0e" secondAttribute="top" constant="90" id="hjN-IV-3id"/>
                             <constraint firstItem="pie-Xh-Zpn" firstAttribute="centerX" secondItem="bQK-OD-pW3" secondAttribute="centerX" id="lUz-mh-2zf"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="xWk-3E-e0e"/>

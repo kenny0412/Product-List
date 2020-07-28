@@ -14,8 +14,8 @@
             filePath = "Laboratorio2/ViewControllers/ProductFormViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
             landmarkName = "addNew(_:)"
             landmarkType = "7">
          </BreakpointContent>
